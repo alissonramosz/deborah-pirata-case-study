@@ -8,6 +8,17 @@
 | --- | --- | --- |
 | Portfolio website developer | Client portfolio | Visual identity, multilingual presentation and responsive interaction |
 
+<p align="center">
+  <img src="assets/home-desktop.jpg" alt="Deborah Pirata portfolio home page on desktop, English version" width="640">
+  <img src="assets/home-mobile.jpg" alt="Deborah Pirata portfolio home page on mobile, English version" width="190">
+</p>
+
+<p align="center">
+  <img src="assets/crafts.jpg" alt="Crafts and performance section of the portfolio" width="640">
+</p>
+
+<sub>Reduced-size captures of the public portfolio (English version), taken on 23 November 2026.</sub>
+
 ## Context
 
 This project has a deliberately straightforward purpose: present Déborah's work, communicate her different practices and make it easy to get in touch. It is a portfolio website, not a SaaS platform or an AI product.
@@ -52,4 +63,4 @@ This project's scope does not call for a custom database or an account system. K
 
 [Development workflow](https://github.com/alissonramosz/ai-product-portfolio#development-workflow)
 
-This repository contains the public case study. The implementation remains private; the artist's images, writing and other creative assets are not redistributed here.
+This repository contains the public case study. The implementation remains private. The screenshots are reduced-size captures of the public portfolio; the artist's original image files, writing and other creative assets are not redistributed here.

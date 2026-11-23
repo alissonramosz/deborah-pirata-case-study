@@ -2,7 +2,7 @@
 
 **A multilingual portfolio for an artist working across illustration, performance and facilitation.**
 
-[Visit the portfolio](https://deborah-pirata.vercel.app) · [All projects](https://github.com/alisson539/ai-product-portfolio)
+[Visit the portfolio](https://deborah-pirata.vercel.app) · [All projects](https://github.com/alissonramosz/ai-product-portfolio)
 
 | Role | Delivery | Focus |
 | --- | --- | --- |
@@ -40,6 +40,16 @@ Language content and the animation lifecycle are managed separately. The portfol
 
 The [portfolio](https://deborah-pirata.vercel.app) is publicly accessible and can be explored without an account.
 
-**Technology:** TypeScript, Next.js, React, GSAP and Lenis.
+## Technical implementation
+
+| Layer | Technology | Responsibility |
+| --- | --- | --- |
+| Website | TypeScript, Next.js, React | Responsive pages and the EN/PT/FR content experience |
+| Motion | GSAP, Lenis | Scroll-driven animation and navigation-aware interaction |
+| Content structure | Localized application content | Consistent presentation across languages |
+
+This project's scope does not call for a custom database or an account system. Keeping content and motion concerns separate supports the portfolio's purpose without adding unnecessary application infrastructure.
+
+[Development workflow](https://github.com/alissonramosz/ai-product-portfolio#development-workflow)
 
 This repository contains the public case study. The implementation remains private; the artist's images, writing and other creative assets are not redistributed here.
